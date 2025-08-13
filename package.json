@@ -1,4 +1,10 @@
 {
+  "name": "seo-portfolio",
+  "homepage": "https://tallomania.github.io/seo-portfolio",
+  "version": "0.1.0",
+  ...
+},
+{
   "compilerOptions": {
     "target": "es5",
     "lib": [
